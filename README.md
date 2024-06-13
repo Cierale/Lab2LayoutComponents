@@ -1,2 +1,2 @@
 # Lab2LayoutComponents
-Lab 3 mobile
+Lab 2 mobile
