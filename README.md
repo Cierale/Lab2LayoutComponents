@@ -1,2 +1,2 @@
-# Lab3PropsAndStatement
+# Lab2LayoutComponents
 Lab 3 mobile
